@@ -1,0 +1,16 @@
+2017.04.03
+
+today I leaern 2 error in Android 
+
+first is ANR (Application Not Responding)
+ANR is an error that occurs when the main thread does not receive a return value-
+from a certain method during the operation and there is no response for a certain period of time.
+
+Second is FATAD 
+This is a fatal error that occurs when the application is not compatible with a platform
+such as Windows, Android OS, etc. because of incompatibility between applications.
+This error may prevent the application from being used normally unless it finds and fixes the logic
+that conflicts with the platform.
+
+I use Google translation program. (but little :))
+It's interesting experience to me.

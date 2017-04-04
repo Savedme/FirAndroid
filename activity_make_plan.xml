@@ -9,7 +9,7 @@
     android:weightSum="1">
 
     <Button
-        android:id="@+id/button_choiceExercise"
+        android:id="@+id/button_CExercise"
         android:layout_width="match_parent"
         android:layout_height="86dp"
         android:onClick="choiceExercise"
@@ -57,6 +57,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="number"
+            android:hint="write here hour"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="234dp"
             android:paddingLeft="20dp"/>
@@ -87,6 +88,7 @@
             android:ems="10"
             android:inputType="number"
             android:paddingLeft="20dp"
+            android:hint="write here min"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="346dp" />
 

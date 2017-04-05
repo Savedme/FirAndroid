@@ -41,4 +41,11 @@ public class MakePlan extends AppCompatActivity {
         finish();
     }
 
+    public void FinishMake(View view){
+
+        Intent intent2 = new Intent(getApplicationContext(), MainActivity.class);
+        startActivity(intent2);
+        finish();
+    }
+
 }
